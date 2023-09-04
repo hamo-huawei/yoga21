@@ -486,6 +486,18 @@ main .container-2{
     .form .detalis .inputs {
         gap: 6px 2px;
     }
+    .form .detalis .inputs [type="text"] {
+       
+        width: 80%;
+    }
+    .form .detalis .inputs [type="phone"] {
+       
+        width: 80%;
+    }
+    .form .detalis .inputs [type="email"] {
+       
+        width: 80%;
+    }
 }
 
 @media (max-width: 768px){
